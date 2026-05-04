@@ -53,5 +53,10 @@
     "name": "Todolist",
     "version": "v1.0.0",
     "link": "./todolist/"
+  },
+  {
+    "name": "Rabit Mash",
+    "version": "v1.0.0",
+    "link": "./rabit%20mash/"
   }
 ]
